@@ -1,5 +1,6 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# Dice Roller
+
+This is a simple command-line application that simulates rolling a dice with a user-specified number of sides. The program is written in Rust programming language and uses the standard library std::io for user input and rand crate for generating random numbers.
 
 ## References
 
